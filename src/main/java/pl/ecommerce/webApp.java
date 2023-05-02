@@ -9,9 +9,9 @@ import pl.ecommerce.productcatalog.ProductCatalog;
 import java.math.BigDecimal;
 
 @SpringBootApplication
-public class webApplication {
+public class webApp {
     public static void main(String[] args) {
-        SpringApplication.run(webApplication.class, args);
+        SpringApplication.run(webApp.class, args);
     }
 
     @Bean
